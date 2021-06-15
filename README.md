@@ -54,9 +54,9 @@ Start the application
 
   
 ## Acknowledgements
+If you find our work useful, please cite us as:\
+**"CITATION"**
+
 ###### Data used to train the model for this app was obtained from *K, ANKITHA; D H, MANJAIAH ; M, Kartik (2020) “Clinical Mastitis in Cows based on Udder Parameter using Internet of Things (IoT)”, Mendeley Data, V2 (doi: 10.17632/kbvcdw5b4m.2)*, consider citing them as well if you use this app.
 
 MasPA.py is distributed under CC BY 4.0 without any guarantee, you may use for almost any purpose (unless stated otherwise) and/or modify and adapt it for your own use as long as the proper credits and citations are provided.
-
-If you find our work useful, please cite us as:\
-**"CITATION"**
