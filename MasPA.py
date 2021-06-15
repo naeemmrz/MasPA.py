@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 import pickle
 import base64
-#import sklearn
+import sklearn
 from PIL import Image
-#from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 
 
 image = Image.open('MasPA_logo.png')
