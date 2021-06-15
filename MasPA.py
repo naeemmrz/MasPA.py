@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import base64
-import sklearn
+import scikit-learn as sklearn
 from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
 
