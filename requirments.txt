@@ -1,5 +1,5 @@
-streamlit==0.82.0
-pybase64==1.1.4
-numpy==1.20.1
-scipy
 scikit-learn
+streamlit==0.68.1
+pandas==0.25.3
+pybase64==1.1.4
+numpy==1.18.1
