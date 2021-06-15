@@ -5,7 +5,7 @@ import pickle
 import base64
 #import sklearn
 from PIL import Image
-from sklearn.ensemble import RandomForestClassifier
+#from sklearn.ensemble import RandomForestClassifier
 
 
 image = Image.open('MasPA_logo.png')
