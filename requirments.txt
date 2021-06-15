@@ -1,3 +1,6 @@
+
+streamlit==0.82.0
 pybase64==1.1.4
 numpy==1.20.1
 scipy
+scikit-learn
