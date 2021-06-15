@@ -29,7 +29,6 @@ User Input:
 """)
 
 
-
 st.sidebar.markdown("""
 [Example CSV input file](https://github.com/naeemmrz/MasPA.py/blob/01f13f2579463ac40183d62f1c17f4296d69ca40/example_input_file.csv)
 """)
