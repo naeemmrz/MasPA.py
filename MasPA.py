@@ -1,10 +1,9 @@
-import scikit-learn
 import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
 import base64
-#import sklearn
+import sklearn
 from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
 
