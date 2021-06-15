@@ -3,10 +3,10 @@ import pandas as pd
 import numpy as np
 import pickle
 import base64
-#import sklearn
+import sklearn
 from PIL import Image
-#from sklearn.ensemble import RandomForestClassifier
-
+from sklearn.ensemble import RandomForestClassifier
+import sys
 
 image = Image.open('MasPA_logo.png')
 st.image(image, use_column_width=True)
