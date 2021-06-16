@@ -90,10 +90,10 @@ def get_table_download_link(df):
 st.markdown(get_table_download_link(output), unsafe_allow_html=True)
 
 ##Activate this if you're interested in the exact probabilities of each classification
-st.subheader("""
-Prediction Probability 
-##### P(0)= P(Risk of Mastitis) | P(1) = P(No Mastitis Risk) 
-""")
-pp = prediction_proba
+#st.subheader("""
+#Prediction Probability 
+###### P(0)= P(Risk of Mastitis) | P(1) = P(No Mastitis Risk) 
+#""")
+#pp = prediction_proba
 #ppdf = pd.DataFrame(pp)
-st.write(pp)
+#st.write(pp)
