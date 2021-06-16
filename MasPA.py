@@ -24,13 +24,14 @@ st.write("""
 
 st.write("""
 \n
-
+[Click Here For More Details GitHub page](https://www.google.com)
+\n
 User Input:
 """)
 
 
 st.sidebar.markdown("""
-[Example CSV input file](https://github.com/naeemmrz/MasPA.py/blob/01f13f2579463ac40183d62f1c17f4296d69ca40/example_input_file.csv)
+[Example CSV input file](https://github.com/naeemmrz/MasPA.py/blob/main/example_input_file.csv)
 """)
 
 # Collects user input features into dataframe
@@ -69,10 +70,10 @@ Health = np.array(['At_Risk_of_Mastitis', 'No_Significant_Mastitis_Risk']) #[0,1
 st.write(Health[prediction])
 
 ##Activate this if you're interested in the exact probabilities of each classification
-#st.subheader('Prediction Probability | P(0)= (mastitis) & P(1) = P(healthy) ')
-#pp = prediction_proba
+st.subheader('Prediction Probability | P(0)= (mastitis) & P(1) = P(healthy) ')
+pp = prediction_proba
 #ppdf = pd.DataFrame(pp)
-#st.write(pp)
+st.write(pp)
 
 Healthdf = pd.DataFrame(Health[prediction])
 
