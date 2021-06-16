@@ -49,7 +49,8 @@ else:
     st.stop()
 
 st.sidebar.markdown("""
-###### Data used to train this model was obtained from K, ANKITHA; D H, MANJAIAH ; M, Kartik (2020) “Clinical Mastitis in Cows based on Udder Parameter using Internet of Things (IoT)”, Mendeley Data, V2 (doi: 10.17632/kbvcdw5b4m.2).
+###### Please cite this work if you find it useful
+"CITATION"
 """)
 # Displays the user input features
 #st.subheader('Results')
@@ -93,7 +94,3 @@ def get_table_download_link(df):
 
 st.markdown(get_table_download_link(output), unsafe_allow_html=True)
 
-st.write("""
-Please cite this work if you find it useful
-"CITATION"
-""")
