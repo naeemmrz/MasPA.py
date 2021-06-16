@@ -24,7 +24,7 @@ st.write("""
 
 st.write("""
 \n
-[Click Here For More Details GitHub page](https://www.google.com)
+[Click Here For More Details](https://www.google.com)
 \n
 User Input:
 """)
