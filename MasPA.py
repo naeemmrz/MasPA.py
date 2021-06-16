@@ -71,15 +71,6 @@ st.write("""
 Health = np.array(['At_Risk_of_Mastitis', 'No_Significant_Mastitis_Risk']) #[0,1] order hence 0=mastitis and 1=Healthy
 st.write(Health[prediction])
 
-##Activate this if you're interested in the exact probabilities of each classification
-st.subheader("""
-Prediction Probability 
-##### P(0)= P(Risk of Mastitis) | P(1) = P(No Mastitis Risk) 
-""")
-pp = prediction_proba
-#ppdf = pd.DataFrame(pp)
-st.write(pp)
-
 Healthdf = pd.DataFrame(Health[prediction])
 
 out = pd.concat([input_df, input_dff['ID'], Healthdf], axis=1)
@@ -98,3 +89,11 @@ def get_table_download_link(df):
 
 st.markdown(get_table_download_link(output), unsafe_allow_html=True)
 
+##Activate this if you're interested in the exact probabilities of each classification
+st.subheader("""
+Prediction Probability 
+##### P(0)= P(Risk of Mastitis) | P(1) = P(No Mastitis Risk) 
+""")
+pp = prediction_proba
+#ppdf = pd.DataFrame(pp)
+st.write(pp)
