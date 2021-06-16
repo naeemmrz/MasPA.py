@@ -73,7 +73,7 @@ st.write(Health[prediction])
 
 ##Activate this if you're interested in the exact probabilities of each classification
 st.subheader("""
-## Prediction Probability 
+### Prediction Probability 
 ##### P(0)= P(Risk of Mastitis) | P(1) = P(No Mastitis Risk) 
 """)
 pp = prediction_proba
