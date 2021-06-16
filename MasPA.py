@@ -51,7 +51,7 @@ else:
 #st.sidebar.markdown("""
 ###### Data used to train this model was obtained from K, ANKITHA; D H, MANJAIAH ; M, Kartik (2020) “Clinical Mastitis in Cows based on Udder Parameter using Internet of Things (IoT)”, Mendeley Data, V2 (doi: 10.17632/kbvcdw5b4m.2).
 #""")
-st.st.sidebar.markdown("""
+st.sidebar.markdown("""
 Please cite this work if you find it useful
 "CITATION"
 """)
