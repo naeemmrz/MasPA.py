@@ -24,7 +24,7 @@ st.write("""
 
 st.write("""
 \n
-[Click Here For More Details](https://www.google.com)
+[Click Here For More Details](https://github.com/naeemmrz/MasPA.py)
 \n
 User Input:
 """)
