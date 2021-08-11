@@ -11,6 +11,7 @@ MasPA.py is a ML-based Web App that can predict the **Risk of Mastitis** in catt
 Abdul Ghafoor N.¹² & Sitkowska B.²
 ###### ¹Mugla Sitki Kocman University, Faculty of Science, Department of Molecular Biology and Genetics, Mugla, Turkey.
 ###### ²University of Science and Technology Bydgoszcz, Department of Biotechnology and Animal Genetics, Bydgoszcz, Poland.
+###### [![Corresponding Article](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doi.org/10.3390/agriengineering3030037)
 
  
 
@@ -55,7 +56,7 @@ Start the application
   
 ## Acknowledgements
 If you find our work useful, please cite us as:\
-**"CITATION"**
+**Abdul Ghafoor N, Sitkowska B. MasPA: A Machine Learning Application to Predict Risk of Mastitis in Cattle from AMS Sensor Data. AgriEngineering. 2021; 3(3):575-583. https://doi.org/10.3390/agriengineering3030037**
 
 ###### Data used to train the model for this app was obtained from *K, ANKITHA; D H, MANJAIAH ; M, Kartik (2020) “Clinical Mastitis in Cows based on Udder Parameter using Internet of Things (IoT)”, Mendeley Data, V2 (doi: 10.17632/kbvcdw5b4m.2)*, consider citing them as well if you use this app.
 
