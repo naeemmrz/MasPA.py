@@ -11,7 +11,7 @@ MasPA.py is a ML-based Web App that can predict the **Risk of Mastitis** in catt
 Abdul Ghafoor N.¹² & Sitkowska B.²
 ###### ¹Mugla Sitki Kocman University, Faculty of Science, Department of Molecular Biology and Genetics, Mugla, Turkey.
 ###### ²University of Science and Technology Bydgoszcz, Department of Biotechnology and Animal Genetics, Bydgoszcz, Poland.
-###### ![Click Here For The Corresponding Article](https://doi.org/10.3390/agriengineering3030037)
+###### [Click Here For The Corresponding Article](https://doi.org/10.3390/agriengineering3030037)
 
  
 
