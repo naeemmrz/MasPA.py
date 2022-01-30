@@ -56,7 +56,7 @@ else:
 #""")
 st.sidebar.markdown("""
 Please cite this work if you find it useful
-"Abdul Ghafoor N, Sitkowska B. MasPA: A Machine Learning Application to Predict Risk of Mastitis in Cattle from AMS Sensor Data. AgriEngineering. 2021; 3(3):575-583. https://doi.org/10.3390/agriengineering3030037"
+"Abdul Ghafoor N, Sitkowska B. MasPA: A Machine Learning Application to Predict Risk of Mastitis in Cattle from AMS Sensor Data. AgriEngineering. 2021; 3(3):575-583. DOI: 10.3390/agriengineering3030037"
 """)
 
 
