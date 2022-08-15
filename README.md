@@ -14,6 +14,7 @@ Abdul Ghafoor N.¹² & Sitkowska B.²
 ###### [Click Here For The Corresponding Article](https://doi.org/10.3390/agriengineering3030037)
 
  
+### Notice: The online version of MasPA is deprecated and will no longer be available in the online-version after 31.12.2022. Please use the offline version by following the "Run Locally" section. 
 
   
 ## Usage
