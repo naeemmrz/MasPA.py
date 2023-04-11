@@ -18,7 +18,7 @@ Abdul Ghafoor N.¹² & Sitkowska B.²
 
 
 ### Notice: 
-#### The online version of MasPA is deprecated and will no longer be available in the online-version after 31.12.2022. Please use the offline version by following the "Run Locally" section. 
+#### The online version of MasPA is deprecated and may no longer be available in the online-version after 31.12.2023. Please use the offline version by following the "Run Locally" section. 
 
 
 
